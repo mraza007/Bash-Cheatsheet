@@ -17,7 +17,7 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 - **`ls -lh <filename>`** Human Readable file Details
 ![LS](gifs/ls-5.gif)
 
-- `cd <foldername>` Change Directory
+- **`cd <foldername>`** Change Directory
 ![LS](gifs/cd.gif)
 
 - `cd /` Go to Root
