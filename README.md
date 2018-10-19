@@ -14,7 +14,8 @@ This command will list everything located in the directory.
 Detailed List and Human Readable.
 ![GIF](gifs/ls-3.gif)
 
-- **`ls *txt`**: Listing Specific files
+#### `ls *txt`
+Listing Specific files
 ![GIF](gifs/ls-4.gif)
 
 - **`ls -lh <filename>`** Human Readable file Details
