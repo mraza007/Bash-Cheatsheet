@@ -11,6 +11,5 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 - **`ls -lh`**: Detailed List and Human Readable.
 ![LS](gifs/ls-3.gif)
 
-- **`ls *`**: Listing Specific files
-ls
+- **`ls *txt`**: Listing Specific files
 ![LS](gifs/ls-4.gif)
