@@ -26,8 +26,10 @@ Human Readable file Details
 Change Directory
 ![GIF](gifs/cd.gif)
 
-- **`cd /`** Go to Root
+#### `cd /`
+Go to Root
 ![GIF](gifs/cd-1.gif)
 
-- **`cd ..`** Go up one folder
+#### `cd ..`
+Go up one folder
 ![GIF](gifs/cd-2.gif)
