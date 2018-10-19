@@ -14,8 +14,13 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 - **`ls *txt`**: Listing Specific files
 ![LS](gifs/ls-4.gif)
 
-- `ls -lh <filename>` Human Readable file Details
+- **`ls -lh <filename>`** Human Readable file Details
 ![LS](gifs/ls-5.gif)
 
 - `cd <foldername>` Change Directory
 ![LS](gifs/cd.gif)
+
+- `cd /` Go to Root
+![LS](gifs/cd-1.gif)
+
+- `cd ..`
