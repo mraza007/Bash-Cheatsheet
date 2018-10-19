@@ -24,4 +24,4 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 ![GIF](gifs/cd-1.gif)
 
 - **`cd ..`** Go up one folder
-![LS](gifs/cd-2.gif)
+![GIF](gifs/cd-2.gif)
