@@ -18,7 +18,8 @@ Detailed List and Human Readable.
 Listing Specific files
 ![GIF](gifs/ls-4.gif)
 
-- **`ls -lh <filename>`** Human Readable file Details
+#### `ls -lh <filename>`
+Human Readable file Details
 ![GIF](gifs/ls-5.gif)
 
 - **`cd <foldername>`** Change Directory
