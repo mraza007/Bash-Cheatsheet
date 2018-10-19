@@ -37,3 +37,7 @@ Go up one folder
 #### `du -h`
 Disk usage of the directory , Human Readable 
 ![GIF](gifs/du.gif)
+
+#### `du -ah`
+Disk usage of files and folders
+![GIF](gifs/du-1.gif)
