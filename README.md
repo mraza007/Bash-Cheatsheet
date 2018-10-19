@@ -12,7 +12,7 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 ![GIF](gifs/ls-3.gif)
 
 - **`ls *txt`**: Listing Specific files
-![LS](gifs/ls-4.gif)
+![GIF](gifs/ls-4.gif)
 
 - **`ls -lh <filename>`** Human Readable file Details
 ![LS](gifs/ls-5.gif)
