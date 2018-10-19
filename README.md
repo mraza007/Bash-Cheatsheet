@@ -6,7 +6,7 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 ![GIF](gifs/ls.gif)
 
 - **`ls -a`**: This command will list everything located in the directory.
-![LS](gifs/ls-1.gif)
+![GIF](gifs/ls-1.gif)
 
 - **`ls -lh`**: Detailed List and Human Readable.
 ![LS](gifs/ls-3.gif)
