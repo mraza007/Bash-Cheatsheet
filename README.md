@@ -22,7 +22,8 @@ Listing Specific files
 Human Readable file Details
 ![GIF](gifs/ls-5.gif)
 
-- **`cd <foldername>`** Change Directory
+#### `cd <foldername>`
+Change Directory
 ![GIF](gifs/cd.gif)
 
 - **`cd /`** Go to Root
