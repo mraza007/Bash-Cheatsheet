@@ -33,3 +33,7 @@ Go to Root
 #### `cd ..`
 Go up one folder
 ![GIF](gifs/cd-2.gif)
+
+#### `du -h`
+Disk usage of the directory , Human Readable 
+![GIF](gifs/du.gif)
