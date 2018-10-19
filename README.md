@@ -1,2 +1,2 @@
 # Command Line Cheat Sheet
-This CheatSheet is created for Beginner who are new to bash/terminal. This will contain all the useful bash command with explanations and gifs
+This Command Line Cheat Sheet is created as reference to help beginners and intermediates to level up there skills.
