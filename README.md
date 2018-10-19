@@ -18,7 +18,7 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 ![GIF](gifs/ls-5.gif)
 
 - **`cd <foldername>`** Change Directory
-![LS](gifs/cd.gif)
+![GIF](gifs/cd.gif)
 
 - **`cd /`** Go to Root
 ![LS](gifs/cd-1.gif)
