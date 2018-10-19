@@ -1,2 +1,2 @@
 # Bash-Cheatsheet
-This is a simple bash cheat sheet with all the command that we use on daily basis
+This CheatSheet is created for Beginner who are new to bash/terminal. This will contain all the useful bash command with explanations and gifs
