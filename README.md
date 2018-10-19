@@ -3,7 +3,7 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 
 ### Basic Command Line Navigation
 - **`ls`**: Command is used to list all the directories and files located in the directory.
-![LS](gifs/ls.gif)
+![GIF](gifs/ls.gif)
 
 - **`ls -a`**: This command will list everything located in the directory.
 ![LS](gifs/ls-1.gif)
@@ -23,4 +23,5 @@ This Command Line Cheat Sheet is created as reference to help beginners and inte
 - **`cd /`** Go to Root
 ![LS](gifs/cd-1.gif)
 
-- `cd ..`
+- **`cd ..`** Go up one folder
+![LS](gifs/cd-2.gif)
