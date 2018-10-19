@@ -41,3 +41,7 @@ Disk usage of the directory , Human Readable
 #### `du -ah`
 Disk usage of files and folders
 ![GIF](gifs/du-1.gif)
+
+#### `du -sh`
+This shows the disk usage of folder only
+![GIF](gifs/du-2.gif)
